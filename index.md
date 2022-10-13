@@ -150,7 +150,7 @@
 |7|금고류|<img src = "./img/금고.jpg" width = "200">|  
 |8|책장류|<img src = "./img/책장.jpg" width = "200">|  
 |9|작은상자|<img src = "./img/작은상자.jpg" width = "200">|  
-|10|일기류|<img src = "./img/일기.jpg" width = "200">|  
+|10|일기류|<img src = "./img/일기장.jpg" width = "200">|  
 |11|졸업앨범|<img src = "./img/졸업앨범.jpg" width = "200">|  
 |12|액자|<img src = "./img/액자.jpg" width = "200">|  
 |13|열쇠류|<img src = "./img/열쇠.jpg" width = "200">|  
