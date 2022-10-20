@@ -412,3 +412,5 @@
 <br><br>
 
 ## 08 게임 스토리보드 <a name='9'></a>
+
+[![](./img/그림2.png)](https://drive.google.com/file/d/1EOdaxHF7VM0IXriWZmG8ipjx6G8U6dW1/view?usp=sharing)
