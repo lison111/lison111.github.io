@@ -425,15 +425,15 @@
 7) 첫 번째 스테이지에서 플레이어와 상호작용 하는 오브젝트에 들어갈 Script를 작성합니다. (윤홍인 / 100%)
 8) 첫 번째 스테이지에서 플레이어와 상호작용 하는 오브젝트에 기능을 적용합니다. (윤홍인 / 100%)
 
-<img src="./img/방1평면도.PNG">
+<img src="./img/방1평면도.png">
 
-<img src="./img/벽1.PNG">
+<img src="./img/벽1.png">
 
-<img src="./img/벽2.PNG">
+<img src="./img/벽2.png">
 
-<img src="./img/벽3.PNG">
+<img src="./img/벽3.png">
 
-<img src="./img/벽4.PNG">
+<img src="./img/벽4.png">
 
 
 ### 3주차
