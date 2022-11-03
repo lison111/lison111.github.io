@@ -434,6 +434,13 @@
 <img src="./img/벽3.png">
 
 <img src="./img/벽4.png">
+<br>
+
+1888018_윤홍인 2주차 작업결과
+- 동영상 파일 100MB를 초과하여 링크로 올립니다.
+-https://drive.google.com/file/d/1S5JV3ExNrl89KURRYQYprSdjC8n0e3lR/view?usp=sharing
+
+
 
 
 ### 3주차
