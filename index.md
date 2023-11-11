@@ -149,17 +149,16 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|  
 |:---:|:---:|:---:|  
-|1|주인공|<img src = "./img/침대.jpg" width = "200">| 
-|2|흑막|<img src = "./img/종이.jpg" width = "200">| 
-|3|일기|<img src = "./img/종이.jpg" width = "200">| 
+|1|주인공|<img src = "./img/주인공.jpg" width = "200">| 
+|2|흑막|<img src = "./img/흑막.jpg" width = "200">| 
+|3|일기|<img src = "./img/일기.jpg" width = "200">| 
 |4|거울|<img src = "./img/거울.jpg" width = "200">|  
-|5|서랍|<img src = "./img/서랍.jpg" width = "200">|
-|6|사진|<img src = "./img/사진.jpg" width = "200">|   
-|7|꽃|<img src = "./img/금고.jpg" width = "200">|         
-|8|열쇠|<img src = "./img/열쇠.jpg" width = "200">|  
-|9|문|<img src = "./img/문.jpg" width = "200">|     
-|10|신문|<img src = "./img/신문.jpg" width = "200">|  
-|11|문제|<img src = "./img/질문지.jpg" width = "200">|  
+|5|사진|<img src = "./img/사진.jpg" width = "200">|   
+|6|꽃|<img src = "./img/꽃.jpg" width = "200">|         
+|7|열쇠|<img src = "./img/열쇠.jpg" width = "200">|  
+|8|문|<img src = "./img/문.jpg" width = "200">|     
+|9|신문|<img src = "./img/신문.jpg" width = "200">|  
+|10|문제|<img src = "./img/문제.jpg" width = "200">|  
 
 <br><br>
 
