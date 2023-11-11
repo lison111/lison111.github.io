@@ -154,7 +154,7 @@
 |3|일기|<img src = "./img/일기.jpg" width = "200">| 
 |4|거울|<img src = "./img/거울.jpg" width = "200">|  
 |5|사진|<img src = "./img/사진.jpg" width = "200">|   
-|6|꽃|<img src = "./img/꽃.jpg" width = "200">|         
+|6|꽃|<img src = "./img/꽃.jpg" width = "50">|         
 |7|열쇠|<img src = "./img/열쇠.jpg" width = "200">|  
 |8|문|<img src = "./img/문.jpg" width = "200">|     
 |9|신문|<img src = "./img/신문.jpg" width = "200">|  
